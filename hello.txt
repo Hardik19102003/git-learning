@@ -1,11 +1,1 @@
-
-
-
-C
-D
-C
-B
-A
-D
-B
-hello my name is hardikI
+hello my name is hardik and I'm learning about git.
