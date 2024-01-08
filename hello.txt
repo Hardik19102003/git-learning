@@ -1,2 +1,3 @@
 hello my name is hardik and I'm learning about git.
-let's make onother change on this branch.
+let's delete something and make a change.
+making another changes.
